@@ -1,7 +1,7 @@
 {
   "events": [
-    { "incident": 190001041, "year": 2019, "count": 1, "address": "5519 Leigh Run Ct. Columbus, OH 43228", "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507993" },
-    { "inicident": 181081371, "year": 2018, "count": 102, "address": "826 Wedgewood Dr. Columbus, OH 43228", "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507986" }
+    { "incident": 190001041, "year": 2019, "date": "1/1/2019", "count": 1, "address": "5519 Leigh Run Ct. Columbus, OH 43228", "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507993" },
+    { "inicident": 181081371, "year": 2018, "date": "12/29/2018", "count": 102, "address": "826 Wedgewood Dr. Columbus, OH 43228", "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507986" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
