@@ -1,8 +1,40 @@
 {
   "events": [
-    { "incident": 190001041, "year": 2019, "date": "1/1/2019", "count": 1,"coord_x": 39.9355845, "coord_y": -83.1423885, "address": "5519 Leigh Run Ct. Columbus, OH 43228", "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507993" }
+    {
+      "address": "5519 Leigh Run Ct. Columbus, OH 43228",
+      "coord_x": 39.9355845,
+      "coord_y": -83.1423885,
+      "count": 1,
+      "date": "1/1/2019",
+      "incident": 190001041,
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507993",
+      "year": 2019
+    },
+    {
+      "address": "1042 Lockbourne Rd. Columbus, OH 43206",
+      "coord_x": 39.9446767,
+      "coord_y": -82.9634129,
+      "count": 2,
+      "date": "1/8/2019",
+      "incident": "190021560",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147508070",
+      "year": 2019
+    },
+    {
+      "address": "3471 Kimberly Ave. Columbus, OH 43224",
+      "coord_x": 40.0358852,
+      "coord_y": -82.9923917,
+      "count": 3,
+      "date": "1/7/2019",
+      "incident": "190018639",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147508065",
+      "year": 2019
+    }
   ],
-  "overview": { "id": 1, "sum": 1},
+  "overview": {
+    "id": 1,
+    "sum": 3
+  },
   "profile": {
     "name": "typicode"
   }
