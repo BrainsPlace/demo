@@ -29,6 +29,26 @@
       "incident": "190018639",
       "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147508065",
       "year": 2019
+    },
+    {
+      "address": "1044 Loretta Ave. Columbus, OH 43211",
+      "coord_x": 40.0154799,
+      "coord_y": -82.982429,
+      "count": 4,
+      "date": "1/11/2019",
+      "incident": "190029588",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147508148",
+      "year": 2019
+    },
+    {
+      "address": "3749 Noam Ct. Columbus, OH 43232",
+      "coord_x": 39.9226864,
+      "coord_y": -82.8970951,
+      "count": 5,
+      "date": "1/11/2019",
+      "incident": "190028034",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147508147",
+      "year": 2019
     }
   ],
   "overview": {
