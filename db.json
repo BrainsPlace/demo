@@ -99,11 +99,41 @@
       "incident": "190001041",
       "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147507993",
       "year": 2019
+    },
+    {
+      "address": "3535 Olentangy River Rd. Columbus, OH 43214",
+      "coord_x": 40.0306088,
+      "coord_y": -83.03429179999999,
+      "count": 12,
+      "date": "11/12/2019",
+      "incident": "190954512",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147512576",
+      "year": 2019
+    },
+    {
+      "address": "1464 Cordell Ave. Columbus, OH 43211",
+      "coord_x": 40.0117176,
+      "coord_y": -82.97033880000001,
+      "count": 13,
+      "date": "11/7/2019",
+      "incident": "190387665",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147512536",
+      "year": 2019
+    },
+    {
+      "address": "88 Haldy Ave. Columbus, OH 43204",
+      "coord_x": 39.956608,
+      "coord_y": -83.0793772,
+      "count": 14,
+      "date": "11/5/2019",
+      "incident": "183021164",
+      "source": "https://www.columbus.gov/WorkArea/DownloadAsset.aspx?id=2147512355",
+      "year": 2019
     }
   ],
   "overview": {
     "id": 1,
-    "sum": 11
+    "sum": 14
   },
   "profile": {
     "name": "typicode"
